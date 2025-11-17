@@ -24,7 +24,7 @@ The project is built using Maven and follows modern development practices, inclu
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+    git clone https://github.com/fleekwy/csv-parser.git
     cd YOUR-REPOSITORY
     ```
 
